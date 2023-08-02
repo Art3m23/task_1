@@ -1,0 +1,24 @@
+.table_markets {
+	width: 100%;
+	margin-bottom: 20px;
+	border: 1px solid #dddddd;
+	border-collapse: collapse; 
+}
+.table_markets th {
+	font-weight: bold;
+	padding: 5px;
+	background: #efefef;
+	border: 1px solid #dddddd;
+}
+.table_markets td {
+	border: 1px solid #dddddd;
+	padding: 5px;
+}
+
+.table_markets_cell-blue {
+	background-color: blue;
+}
+
+.table_markets_cell-green {
+	background-color: green;
+}
